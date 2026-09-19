@@ -1,6 +1,6 @@
-# SAYAD ERP Complete User & Operations Guide
+# SAYAD ERP Complete User & Operations Guide (v1.0.1)
 
-Interactive, searchable and offline-capable documentation for SAYAD ERP.
+Interactive, searchable and offline-capable Arabic-first documentation for SAYAD ERP (Version 1.0.1 — Arabic Localization Revision).
 
 Features:
 
